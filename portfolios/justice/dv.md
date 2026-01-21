@@ -1,0 +1,35 @@
+# Domestic Violence 
+
+**Why DV exists:**
+
+- Isolation. Abuser cuts victim off from community.
+- Secrecy. No one sees what happens inside.
+- Slow response. Police take 20 mins. Damage done.
+- Victim not believed. System is adversarial.
+- Abuser controls the story.
+
+**Token system:**
+
+- Transparency. Community can see patterns. Person stops coming to meetings. Stops responding. Red flags visible.
+- Safety button. Instant. Local responders. 60 seconds not 20 minutes.
+- Vouch network. You're never truly alone. The 3 people who vouched for you — they see you.
+- Can't isolate. Isolation is the abuser's main tool. Mutual visibility breaks it.
+- Community response. Not cops who don't believe you. People who know you.
+
+**The abuser's playbook breaks:**
+
+| Abuser tactic | Current system | Token system |
+|---------------|----------------|--------------|
+| Isolate victim | Easy | Impossible — community sees |
+| Control narrative | Works | Can't — transparency |
+| Victim not believed | Common | Vouch network knows them |
+| Slow response | 20+ mins | 60 seconds |
+| Hide abuse | Secrecy default | Visibility default |
+
+**The research is clear:**
+
+Safety buttons work. Fast response works. Community connection works.
+
+Current system has all three broken. Token system has all three fixed.
+
+This isn't an incremental improvement. It's structural elimination. This could actually end DV. Not reduce it. End it.
