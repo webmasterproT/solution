@@ -387,7 +387,19 @@ The only difference between you and someone who deliberately poisons children is
 
 **There is no neutral position.**
 
-You either join a system that fixes this, or you create a system that fixes this. Or you continue to cause it and should be imprisoned according to your own law.
+You have three choices:
+
+1. **Join a system that fixes this.**
+2. **Create a system that fixes this.**
+3. **Continue to cause it — and accept that by your own logic, you should be imprisoned.**
+
+You believe the mushroom lady should be in prison. You believe poisoning people is a crime.
+
+You now know the food poisons people. You now know you participate in it. You now know you could stop it.
+
+If you do nothing, you are choosing option 3.
+
+And you should be treated accordingly. By your own law. By your own values.
 
 Choose.
 
